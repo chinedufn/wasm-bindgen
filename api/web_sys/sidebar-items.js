@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["FlashClassification",""],["HeadersGuardEnum",""],["ResponseType",""],["ScrollLogicalPosition",""],["StorageType",""]],"struct":[["Document",""],["Element",""],["Event",""],["EventTarget",""],["Headers",""],["Node",""],["NodeList",""],["Response",""]]});
